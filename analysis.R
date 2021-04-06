@@ -8,6 +8,3 @@ murders %>% mutate(abb = reorder(abb,rate)) %>%
 
 ggsave("figs/barplot.png")
 
-
-https://github.com/Nyali-H/murders.git
-getwd()

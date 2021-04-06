@@ -1,5 +1,5 @@
 ---
-title: "Report"
+title: "Report on Gun Murders"
 author: "Harris Nyali"
 date: "`r format(Sys.Date())`"
 output: html_document
